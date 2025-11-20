@@ -132,7 +132,7 @@ You should work on your research project on your own. However, you should feel f
 
 + Thursday 16 October: presentation of project outline in class
 + Thursday 13 November: presentation of early results in class
-+ Tuesday 2 December & Thursday 4 December: presentation of final results  in class
++ Thursday 4 December: presentation of final results in class
 + Thursday 11 December: submission of final paper on GitHub
 
 #### Presentation of project outline
